@@ -1,6 +1,6 @@
 # Bizzly — Subscription Booking Software for Service Businesses
 
-**[bizzly.net](https://www.bizzly.net)** · [Start Free Trial](https://www.bizzly.net/signup) · [View Demo](https://music-lessons.bizzly.net)
+**[bizzly.net](https://www.bizzly.net)** · [Start Free Trial](https://www.bizzly.net/pricing) · [View Demos](https://www.bizzly.net/launch-packs)
 
 ---
 
@@ -111,7 +111,7 @@ Sell recurring service subscriptions, manage bookings and availability, build a 
 
 ## Get Started
 
-1. **[Sign up free](https://www.bizzly.net/signup)** — no card required
+1. **[Start your free trial](https://www.bizzly.net/pricing)** — no card required
 2. Choose your industry launch pack
 3. Customise your services and pricing plans
 4. Connect Stripe and Google Calendar
