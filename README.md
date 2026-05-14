@@ -81,11 +81,13 @@ Sell recurring service subscriptions, manage bookings and availability, build a 
 
 ## Pricing
 
-| Plan | Monthly | Key Limits |
-|------|---------|------------|
-| Starter | Free | 1 service, platform subdomain |
-| Standard | £29/mo | Unlimited services, HubSpot, SMS, 500 WhatsApp AI messages/mo |
-| Pro | £79/mo | Custom domain, branded email, unlimited WhatsApp AI |
+| Plan | Monthly | Annual | Key Limits |
+|------|---------|--------|------------|
+| Base | £19/mo | £190/yr | 50 bookings, 1 calendar, 7 pages, email support |
+| Standard | £29/mo | £290/yr | 200 bookings, 3 calendars, WhatsApp AI (500 msg/mo), SMS (50/mo) |
+| Pro | £49/mo | £490/yr | Unlimited bookings & calendars, custom domain, branded email, WhatsApp AI (2,000 msg/mo) |
+
+14-day free trial on all plans — no credit card required.
 
 [See full pricing →](https://www.bizzly.net/pricing)
 
@@ -123,7 +125,7 @@ Sell recurring service subscriptions, manage bookings and availability, build a 
 
 - Website: [https://www.bizzly.net](https://www.bizzly.net)
 - Pricing: [https://www.bizzly.net/pricing](https://www.bizzly.net/pricing)
-- Help Centre: [https://www.bizzly.net/help](https://www.bizzly.net/help)
+- Help Centre: [https://www.bizzly.net/support](https://www.bizzly.net/support)
 - Blog: [https://www.bizzly.net/blog](https://www.bizzly.net/blog)
 
 ---
